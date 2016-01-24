@@ -1,3 +1,10 @@
 What happend when you initialize a repository? Why do you need to do it?
 
 	When initializing the repository it creates the .git fold to hold the meta data for tracking. It does not create a commit, that is needed to be done manually.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area just holds the updated file before they are moved to the commit. You don't acctually modify anything in this area except adding file. The working dir is your local place to modify files. 
+	This gives you a chance to verify the files that you want to add to the commit.
+
+
