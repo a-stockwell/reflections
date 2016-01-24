@@ -7,4 +7,6 @@ How is the staging area different from the working directory and the repository?
 	The staging area just holds the updated file before they are moved to the commit. You don't acctually modify anything in this area except adding file. The working dir is your local place to modify files. 
 	This gives you a chance to verify the files that you want to add to the commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+	Just by going threw and checking the diffrences you will be able to check which changes are going to be added to the commit, you'll have to make sure the logical changes are reflected in you logic path.
