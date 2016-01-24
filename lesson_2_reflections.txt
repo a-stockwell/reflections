@@ -1,0 +1,3 @@
+What happend when you initialize a repository? Why do you need to do it?
+
+	When initializing the repository it creates the .git fold to hold the meta data for tracking. It does not create a commit, that is needed to be done manually.
