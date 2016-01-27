@@ -10,3 +10,11 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	Just by going threw and checking the diffrences you will be able to check which changes are going to be added to the commit, you'll have to make sure the logical changes are reflected in you logic path.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Freedon to explore. If you want to try some experimenting with the code to try and add / delete / refactor stuff that you might not now is going to stand up the code base. If you wanted to change lanuges on some things.
+
+How do the diagrams help you visualize the branch structure?
+
+       The diagrams help diffrentiate where the 
